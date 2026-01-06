@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{
+    background-image: url(/images/okumono_sf3.png);
+    background-size: cover;
+    background-color: #00ced1;
+}
+p{
+    font-size: 100%;
+}
+.align-center{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.table-img{
+    text-align: center;
+}
+.daltom{
+    text-align: center;
+    margin-left: 70px;
+}
