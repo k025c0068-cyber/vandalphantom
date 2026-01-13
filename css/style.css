@@ -3,9 +3,10 @@ body{
     background-image: url("../images/okumono_sf3.png");
     background-size: cover;
     background-position: center;
-    color: rgb(252, 125, 46);
+    color: white;
 }
 p{
+    background-color: rgb(43, 42, 42);
     font-size: 20px;
 }
 .align-center{
